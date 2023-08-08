@@ -3,13 +3,13 @@
     margin: 0;
 }
 .upper{
-    width: 1548px;
+    width: 1536px;
     height: 457px;
     background-color: #FFCD9E;
 
 }
 .lower{
-    width: 1548px;
+    width: 1536px;
     height: 250px;
     background-color:#282828;
     display: flex;
